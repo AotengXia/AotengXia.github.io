@@ -1,6 +1,12 @@
 #### Preprinted
 
-- <strong>S. Li</strong>*, X. Yang, S. M. Mousavi, A. Cao, K. Fan, Y. Liu, C. Wang, and Q. Niu. Learning Earthquake Wave Arrival Time Picking from Labels with Inaccuracies. <strong>Under Review</strong> [[Code]](https://github.com/senli1073/LaNCor)
+- Hao, C, Huang, F., <strong> Xia, A.,</strong> (2025). A phase transition for the two-dimensional random field Ising/FK-Ising model. <strong>Under Review</strong>[[Arxiv]] (https://arxiv.org/abs/2503.16268)
+
+
+- Ding, J., Huang, F., <strong> Xia, A.,</strong> (2023). A phase transition and critical phenomenon for the
+two-dimensional random field Ising model.<strong>Under Review</strong>[[Arxiv]] (https://arxiv.org/abs/2310.12141)
+
+
 
 #### Published
 
