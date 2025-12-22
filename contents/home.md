@@ -2,16 +2,17 @@
 
 [![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
 
-He is currently a Postdoctoral Researcher at University of Cologne in the group of Prof. Alexander Drewitz.
+I am currently a Postdoctoral Researcher at University of Cologne in the group of Prof. Alexander Drewitz.
 
 #### Contact
 
-Email: senli[at]fas.harvard.edu
+Email: axia1@uni-koeln.de
 
 #### Education
-M.E., Computer Science and Technology, China University of Mining and Technology, 2022—2025.\
-B.E., Data Science and Big Data Technology, China University of Mining and Technology, 2018—2022.
+PhD, Mathematics, Peking University, China, 2020—2025.\
+&nbsp;&nbsp;&nbsp;&nbsp; Under the supervision of Prof. Gang Tian, Prof. Jian Ding and Prof. Xinyi Li, .\
+B.S., Mathematics, Peking University, China, 2016—2020.
 
 #### Research Interests
-Machine Learning for Seismology; Foundation Model; Observational Seismology; Microseismic Monitoring
+Probability;Mathematical Physics;Lattice Models.
 
