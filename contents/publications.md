@@ -1,10 +1,10 @@
 #### Preprinted
 
-- Hao, C, Huang, F., <strong> Xia, A.,</strong> (2025). A phase transition for the two-dimensional random field Ising/FK-Ising model. <strong>Under Review</strong>[[Arxiv]](https://arxiv.org/abs/2503.16268)
+- Hao, C, Huang, F., <strong> Xia, A.,</strong> (2025). A phase transition for the two-dimensional random field Ising/FK-Ising model. [[Arxiv]](https://arxiv.org/abs/2503.16268) <strong>Under Review</strong>.
 
 
 - Ding, J., Huang, F., <strong> Xia, A.,</strong> (2023). A phase transition and critical phenomenon for the
-two-dimensional random field Ising model.<strong>Under Review</strong>[[Arxiv]](https://arxiv.org/abs/2310.12141)
+two-dimensional random field Ising model.[[Arxiv]](https://arxiv.org/abs/2310.12141) <strong>Under Review</strong>.
 
 
 
