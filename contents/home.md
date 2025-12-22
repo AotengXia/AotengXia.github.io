@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+
 
 I am currently a Postdoctoral Researcher at University of Cologne in the group of Prof. Alexander Drewitz.
 
