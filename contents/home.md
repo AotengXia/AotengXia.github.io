@@ -14,5 +14,5 @@ PhD, Mathematics, Peking University, China, 2020—2025.\
 B.S., Mathematics, Peking University, China, 2016—2020.
 
 #### Research Interests
-Probability;Mathematical Physics;Lattice Models.
+Probability Theory;Mathematical Physics;Lattice Models.
 
