@@ -1,17 +1,17 @@
 
 
 
-- 12/2025 Santiago, Chile
+- 12/2025 &nbsp;&nbsp; Santiago, Chile
 
-- 06/2025 Changsha, China
+- 06/2025 &nbsp;&nbsp;  Changsha, China
 
-- 07/2024 Cologne, Germany
+- 07/2024 &nbsp;&nbsp; Cologne, Germany
 
-- 05/2024 Leipzig, Germany
+- 05/2024 &nbsp;&nbsp; Leipzig, Germany
 
-- 12/2023 NUS, Singapore
+- 12/2023 &nbsp;&nbsp; NUS, Singapore
 
-- 11/2020, Percolation Today (Online)
+- 11/2020 &nbsp;&nbsp; Percolation Today (Online)
 
 
 
