@@ -11,7 +11,7 @@
 
 - 12/2023 &nbsp;&nbsp; NUS, Singapore
 
-- 11/2020 &nbsp;&nbsp; Percolation Today (Online)
+- 11/2022 &nbsp;&nbsp; Percolation Today (Online)
 
 
 
